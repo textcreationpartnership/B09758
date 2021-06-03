@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pourtraict of the new wonderful blazing star, which appear'd to the innter Austrian countries, and the adjacent parts of Croatia, standing over Rackelsburg and Czackenthurn, seen betwixt two and three of the clock several mornings, from the 12th of January, 1664.  To the terrour of the beholders.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09758</idno><idno type="EEBO-CITATION">64551572</idno>
+  <idno type="VID">184708</idno>
+  <idno type="EEBO-PROQUEST">2248530880</idno>
+  
+            <idno type="STC">Wing P3003A</idno>
+            <idno type="STC">ESTC R224308</idno>
+            <idno type="OCLC">64551572</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184708)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pourtraict of the new wonderful blazing star, which appear'd to the innter Austrian countries, and the adjacent parts of Croatia, standing over Rackelsburg and Czackenthurn, seen betwixt two and three of the clock several mornings, from the 12th of January, 1664.  To the terrour of the beholders.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. M. and are to be sold by E. Brewster at the Crane in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Text in two columns with caption titles at top of each.</note>
+                  <note>Includes a high-Dutch copy and Low-Dutch copy.</note>
+                  <note>"With license March 7. 1663/4 Roger L'Estrange."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Comets --  England --  Early works to 1800.</term>
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="head">
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:184708:1"/>
+            <head>POURTRAICT Of the New Wonderful Blazing Star, Which appear'd to the Inner <hi>Austrian</hi> Countries, and the adjacent Parts of <hi>Croatia,</hi> standing over <hi>Rackelsburg</hi> and <hi>Czackenthurn,</hi> seen betwixt two and three of the Clock several mornings, from the 12<seg rend="sup">th</seg> of <hi>January,</hi> 1664. to the terrour of the Beholders.</head>
+            <p>THis unnatural and on the Firmament in a horrid and fire-burning shape appeared Star, a lighted Torch of God's Wrath, conjecturally is feared to be a fore-runner of far greater Wars, and subsequent Calamities, then that which appeared <hi>Anno</hi> 1618, and seen all <hi>Europe</hi> over for thirty days together, foreshewing bloody Wars, lasting thirty years; as likewise that seen <hi>Anno</hi> 1652. upon which the <hi>Polonian, Swedish,</hi> and <hi>Danish</hi> Wars ensued. The form of this wonderful Star so exceedingly admired in respect of the appa<g ref="char:EOLhyphen"/>rent Half-moons in it, is doubtless a fore-runner of miserable Alterations, the rather because the Arch-Enemy to <hi>Christendom</hi> hath with a stupendious Army invaded the Christian Empire, threatning to come yet more strongly to make horrid Devastations; therefore let us fall upon our knees, doing true Re<g ref="char:EOLhyphen"/>pentance, be frequent and fervent in our Prayers, that God's fierce striking Hand may be stay'd, and these threatned Calamities be averted. And whereas <hi>Neubarthus</hi> in his Almanack of the 1663. last, under the Title of a Great Conjunction of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in the fiery Sign of <hi>Sagitarie,</hi> this ensuing Bla<g ref="char:EOLhyphen"/>zing Star from thence upon Astrological conjectures hath its descent, unto a warning to all is it published, that we all may be turning to a speedy and true Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <closer>
+               <signed>High-Dutch Copy.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>DELINEATION Of a Marvellous New Blazing Star, Which appear to <hi>Austria,</hi> chiefly about <hi>Rackels<g ref="char:EOLhyphen"/>burg</hi> and <hi>Czackenthurn,</hi> seen several mornings be<g ref="char:EOLhyphen"/>twixt two and three of the Clock, from the 12<seg rend="sup">th</seg> of <hi>January,</hi> 1664. to the amaze<g ref="char:EOLhyphen"/>ment of the Beholders.</head>
+            <p>WE see clearly as in a Looking-glass that the coming of Christ draws nigh, and that the last times are at hand, through the Signs and Wonders that are seen on the Firmament of Heaven, Sun, Moon, and Stars, unto a warning and rowsing of the drowsie man, that he should be converted, and turn off from his sinful ways. Hereupon we thought good to communicate this horrible Star, the pourtraict whereof was sent hi<g ref="char:EOLhyphen"/>ther from <hi>Germany.</hi>
+            </p>
+            <p>This unnatural, and never the like seen Heavens-sign or wondrous Star, appeared on the Firmament in a horrid shape and burning fire, as a kindled Torch of God's Wrath: It is feared that heavy Wars and Calamities will ensue thereupon; like as that <hi>Anno</hi> 1618. seen all <hi>Europe</hi> over for thirty days together, signified thirty years bloody Wars; and the Blazing Star also which was seen <hi>Anno</hi> 1652. intimated the ensuing <hi>Polonian, Swedish,</hi> and <hi>Danish</hi> Wars: The rather, because the form of it is strange and marvel<g ref="char:EOLhyphen"/>lous, bearing in the midst two Half-moons, the <hi>Otto<g ref="char:EOLhyphen"/>man</hi> Arms, who with his warlike Preparations asto<g ref="char:EOLhyphen"/>nisheth whole <hi>Europe.</hi> Yet the Lord of Heaven seems to promise some good towards <hi>Christendom,</hi> and through this token to turn off these Calamities. <hi>Neu<g ref="char:EOLhyphen"/>barthus</hi> in his last years Almanack 1663. under the Ti<g ref="char:EOLhyphen"/>tle of the Great Conjunction of ♄ and ♃ in the fiery Sign ♐, holds this Blazing Star for an effect of it. Se<g ref="char:EOLhyphen"/>veral Astronomers held it for good taht it should be published.</p>
+            <closer>
+               <signed>Low-Dutch Copy.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>With License,</p>
+            <p>
+               <hi>March</hi> 7. 1661/4.</p>
+            <closer>
+               <signed>
+                  <hi>Roger</hi> L'<hi>Estrange.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by J. M. and are to be sold by <hi>E. Brewster</hi> at the <hi>Crane</hi> in S<seg rend="sup">t</seg>
+               <hi>Paul</hi>'s Church-yard. 1664.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
